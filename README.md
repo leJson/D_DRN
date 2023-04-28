@@ -16,3 +16,4 @@ To execute the models, please run the following commands in your terminal:
 ./DRN.sh
 ./D_DRN.sh
 The results of the execution will be stored in a file named "result". Please note that the performance of each model may vary based on the input data and the hardware configuration.
+# D_DRN
